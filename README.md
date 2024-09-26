@@ -1,1 +1,2 @@
 # Holy_locket
+Holy Locket is an online platform where patients can find information about doctors and select a doctor according to their needs. Additionally, patients will have the opportunity to view all available appointment slots and evaluate the quality of medical care the doctor provides, contributing to the doctor's rating. A patient profile page should also be added, allowing users to edit their personal information flexibly.
